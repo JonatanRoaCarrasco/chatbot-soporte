@@ -113,9 +113,9 @@ Desarrollar una plataforma multi-tenant de soporte conversacional que permita a 
 - **Sprint Retrospective** (fin de sprint): qué mejorar en el proceso
 
 **Roles**:
-- **Product Owner**: prioriza el backlog, representa las necesidades del usuario y del proyecto
-- **Scrum Master**: facilita el proceso, quita bloqueos, asegura que se cumplan las ceremonias
-- **Equipo de desarrollo**: los 3 integrantes desarrollan, cada uno con áreas de foco
+- **Product Owner** (Jonatan Roa): prioriza el backlog, representa las necesidades del usuario y del proyecto
+- **Scrum Master** (Nelson Maureira): facilita el proceso, quita bloqueos, asegura que se cumplan las ceremonias
+- **Developer** (Daniel Rioseco): desarrollo principal del proyecto
 
 **Herramientas**:
 - Control de versiones: GitHub (repositorio público)
@@ -136,7 +136,10 @@ Desarrollar una plataforma multi-tenant de soporte conversacional que permita a 
 ---
 
 **Fecha de elaboración**: Agosto 2026  
-**Equipo**: [Nombre del equipo]  
-**Integrantes**: Daniel Rioseco - Jonatan Roa - Nelson Maureira  
+**Equipo**: Chatbot de Soporte  
+**Integrantes**: 
+- Jonatan Roa - Product Owner
+- Nelson Maureira - Scrum Master
+- Daniel Rioseco - Developer
 **Sección**: CAPSTONE_006V  
 **Docente**: ALEX ULISES ZUNIGA MONTIEL
