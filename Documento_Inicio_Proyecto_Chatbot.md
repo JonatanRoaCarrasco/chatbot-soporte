@@ -141,5 +141,6 @@ Desarrollar una plataforma multi-tenant de soporte conversacional que permita a 
 - Jonatan Roa - Product Owner
 - Nelson Maureira - Scrum Master
 - Daniel Rioseco - Developer
+  
 **Sección**: CAPSTONE_006V  
 **Docente**: ALEX ULISES ZUNIGA MONTIEL
