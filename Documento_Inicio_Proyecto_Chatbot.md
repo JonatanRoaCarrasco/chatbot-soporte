@@ -137,6 +137,6 @@ Desarrollar una plataforma multi-tenant de soporte conversacional que permita a 
 
 **Fecha de elaboración**: Agosto 2026  
 **Equipo**: [Nombre del equipo]  
-**Integrantes**: [Nombres de los 3 integrantes]  
-**Sección**: [Número de sección]  
-**Docente**: [Nombre del docente]
+**Integrantes**: Daniel Rioseco - Jonatan Roa - Nelson Maureira  
+**Sección**: CAPSTONE_006V  
+**Docente**: ALEX ULISES ZUNIGA MONTIEL
