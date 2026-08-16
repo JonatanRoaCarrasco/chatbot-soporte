@@ -17,7 +17,66 @@ Cada producto SaaS del ecosistema necesita atender consultas y problemas de sus 
 - **Comunicación**: Discord
 
 ## Instrucciones para ejecutar
-[Por completar cuando se defina el stack]
+
+### Prerrequisitos
+- Python 3.11+
+- Node.js 18+
+- Docker (opcional pero recomendado)
+
+### Backend
+
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/JonatanRoaCarrasco/chatbot-soporte.git
+cd chatbot-soporte/backend
+```
+
+2. Crear entorno virtual e instalar dependencias:
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# venv\Scripts\activate   # Windows
+pip install -r requirements.txt
+```
+
+3. Ejecutar el servidor:
+```bash
+uvicorn app.main:app --reload --port 8000
+```
+
+4. Abrir en el navegador:
+- API: http://127.0.0.1:8000
+- Documentación: http://127.0.0.1:8000/docs
+
+### Frontend
+
+1. Ir a la carpeta frontend:
+```bash
+cd ../frontend
+```
+
+2. Instalar dependencias:
+```bash
+npm install
+```
+
+3. Ejecutar en desarrollo:
+```bash
+npm run dev
+```
+
+### Con Docker (recomendado)
+
+1. Instalar Docker Desktop
+2. Ejecutar desde la raíz del proyecto:
+```bash
+docker-compose up
+```
+
+Esto levantará:
+- Backend en http://localhost:8000
+- PostgreSQL en http://localhost:5432
+- Redis en http://localhost:6379
 
 ## Integrantes del equipo
 
