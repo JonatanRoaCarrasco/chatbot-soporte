@@ -1,0 +1,45 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Archivos de Office
+*.docx
+*.xlsx
+*.pptx
+~$*
+
+# Archivos de video
+*.mkv
+*.mp4
+*.avi
+
+# Archivos de PDF (mantener solo los necesarios)
+# *.pdf
+
+# Archivos deNode.js
+node_modules/
+.env
+.env.local
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de IDE
+.idea/
+*.swp
+*.swo
+
+# Archivos de build
+dist/
+build/
+*.log
