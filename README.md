@@ -20,9 +20,15 @@ Cada producto SaaS del ecosistema necesita atender consultas y problemas de sus 
 [Por completar cuando se defina el stack]
 
 ## Integrantes del equipo
+<<<<<<< HEAD
 - Jonatan Roa - Product Owner
 - Nelson Maureira - Scrum Master
 - Daniel Rioseco - Developer
+=======
+- Jonatan Roa     - Product Owner
+- Nelson Maureira - Scrum Master  
+- Daniel Rioseco  - Developer
+>>>>>>> 5bfb0971116bcd2dfdd2631419d5a3b04a45f061
 
 ## Metodología de trabajo
 Scrum con sprints de 2 semanas
