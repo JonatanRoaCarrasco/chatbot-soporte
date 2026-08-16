@@ -25,6 +25,6 @@ class ChatMessage(Base):
     role = Column(String, nullable=False)
     content = Column(Text, nullable=False)
     timestamp = Column(DateTime, default=datetime.utcnow)
-    metadata = Column(JSON, default={})
+    extra_data = Column(JSON, default={})
     
     session = relationship("ChatSession", back_populates="messages")
