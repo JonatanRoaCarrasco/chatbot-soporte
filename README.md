@@ -16,7 +16,7 @@ Cada producto SaaS del ecosistema necesita atender consultas y problemas de sus 
 - **Gestión de tareas**: GitHub Projects
 - **Comunicación**: Discord
 
-##Instrucciones para ejecutar
+## Instrucciones para ejecutar
 [Por completar cuando se defina el stack]
 
 ## Integrantes del equipo
@@ -28,4 +28,11 @@ Cada producto SaaS del ecosistema necesita atender consultas y problemas de sus 
 Scrum con sprints de 2 semanas
 
 ## Arquitectura de la solución
-[Por completar en la fase de diseño]
+Ver documento completo: [docs/arquitectura.md](docs/arquitectura.md)
+
+**Resumen**:
+- **Frontend**: Widget Chat (embebible), Admin Panel, Agent Console
+- **Backend**: FastAPI con módulos Auth, Chat, Admin, Tickets
+- **Servicios**: RAG Engine, LLM (DeepSeek), PgVector
+- **Datos**: PostgreSQL (principal), Redis (cache), PgVector (embeddings)
+- **Infraestructura**: Docker + Docker Compose
