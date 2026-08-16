@@ -1,48 +1,58 @@
 # Evidencias del Proyecto
 
-## Fase 1 - Definición Proyecto CAPSTONE (20%)
-**Semanas 1-4**
+## Estructura
 
-Archivos requeridos:
-- `1.2_APT122_DiarioReflexionFase1.docx` - Diario de reflexión
-- `1.4_APT122_FormativaFase1.docx` - Formativa fase 1
-- `1.3_APT122_AutoevaluacionFase1.docx` - Autoevaluación fase 1
-- `Documento_Inicio_Proyecto.docx` - Documento de inicio
-- `Presentacion_Fase1.pptx` - Presentación de la definición del proyecto
+```
+evidencias/
+├── fase1/              (Semanas 1-4, 20%)
+│   ├── individual/     (Entregables personales)
+│   └── grupal/         (Entregables del equipo)
+├── fase2/              (Semanas 5-15, 50%)
+│   ├── individual/     (Entregables personales)
+│   └── grupal/         (Entregables del equipo)
+└── fase3/              (Semanas 16-18, 30%)
+    ├── individual/     (Entregables personales)
+    └── grupal/         (Entregables del equipo)
+```
 
-## Fase 2 - Desarrollo Proyecto APT (50%)
-**Semanas 5-15**
+## Fase 1 - Definición Proyecto (20%)
 
-### Informe de Avance (20%)
-- `2.4_GuiaEstudiante_Fase2_DesarrolloProyectoAPT.docx` - Guía de desarrollo
-- `2.1_APT122_DiarioReflexionFase2.docx` - Diario de reflexión
-- `2.3_APT122_FormativaAvanceFase2.docx` - Formativa avance
-- `2.2_EvFor2_Autoevaluacion.docx` - Autoevaluación
-- `Informe_Avance.docx` - Informe de avance (Semana 10)
+### Individuales
+- Autoevaluación de Competencias
+- Diario de Reflexión
+- Autoevaluación Fase 1
+- Abstract (inglés)
+- Conclusiones (inglés)
 
-### Informe Final (30%)
-- `2.6_GuiaEstudiante_Fase2_InformeFinal.docx` - Guía informe final
-- `Informe_Final.docx` - Informe final (Semana 15)
+### Grupales
+- Formativa Fase 1
+- Guía del Proyecto
+- Planilla de Evaluación
+- Documento de Inicio
+- Presentación
 
-## Fase 3 - Presentación Proyecto APT (30%)
-**Semanas 16-18**
+## Fase 2 - Desarrollo Proyecto (50%)
 
-- `3.1_APT122_DiarioReflexionFase3.docx` - Diario de reflexión
-- `3.2_APT122_AutoevaluacionFase3.docx` - Autoevaluación
-- `3.3_Estudiante_Fase3_PresentacionProyectoAPT.docx` - Guía presentación
-- `3.4_APT122_SumativaFase3.docx` - Presentación final
-- `Presentacion_Final.pptx` - Presentación a comisión
+### Individuales
+- Diario de Reflexión Fase 2
+- Autoevaluación Avance
+- Abstract (inglés)
+- Conclusiones (inglés)
 
-## Documentos en Inglés (todas las fases)
+### Grupales
+- Guía de Desarrollo
+- Informe de Avance (Semana 10)
+- Guía Informe Final
+- Informe Final (Semana 15)
 
-### Fase 1
-- Resumen (Abstract) del proyecto (grupal, escrito)
-- Conclusiones y Reflexión (individual, escrito)
+## Fase 3 - Presentación Proyecto (30%)
 
-### Fase 2
-- Resumen (Abstract) del proyecto (grupal, escrito)
-- Conclusiones y Reflexión (individual, escrito)
+### Individuales
+- Diario de Reflexión Fase 3
+- Autoevaluación Fase 3
+- Presentación Individual
 
-### Fase 3
-- Resumen (Abstract) del proyecto (grupal, escrito)
-- Presentación (individual)
+### Grupales
+- Guía Presentación
+- Presentación Final (comisión)
+- Abstract (inglés)

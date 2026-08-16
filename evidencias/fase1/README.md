@@ -1,22 +1,28 @@
-# Fase 1 - Definición Proyecto CAPSTONE
+# Fase 1 - Definición Proyecto CAPSTONE (20%)
 
-**Ponderación**: 20%  
 **Semanas**: 1-4
 
-## Entregables
+## Evidencias Individuales
+
+| Archivo | Descripción |
+|---------|-------------|
+| Autoevaluación de Competencias | Evalúa tus competencias al inicio |
+| Diario de Reflexión | Reflexión personal sobre el proceso |
+| Autoevaluación Fase 1 | Autoevaluación de la fase |
+
+## Evidencias Grupales
+
+| Archivo | Descripción |
+|---------|-------------|
+| Formativa Fase 1 | Formativa de la definición |
+| Guía del Proyecto | Guía para la definición del proyecto |
+| Planilla de Evaluación | Rúbrica de evaluación |
+| Documento de Inicio | Documento de inicio del proyecto |
+| Presentación | Presentación de la definición |
+
+## Documentos en Inglés
 
 | Archivo | Tipo | Descripción |
 |---------|------|-------------|
-| Diario de Reflexión | Individual | Reflexión sobre el proceso |
-| Formativa Fase 1 | Grupal | Formativa de la definición |
-| Autoevaluación | Individual | Autoevaluación de competencias |
-| Documento Inicio | Grupal | Documento de inicio del proyecto |
-| Presentación | Grupal | Presentación de la definición |
-
-## Estado
-
-- [ ] Diario de reflexión
-- [ ] Formativa fase 1
-- [ ] Autoevaluación
-- [ ] Documento de inicio
-- [ ] Presentación
+| Abstract | Grupal | Resumen del proyecto |
+| Conclusiones | Individual | Reflexión y conclusiones |
